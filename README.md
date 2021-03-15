@@ -5,7 +5,7 @@ as a SQL lite database for CRUD operations.
 
 The target of the app is for users to find people for activities of personal interest. For example users might search
 a partner for dance class, someone to play tennis against or a buddy for gaming. Users create searches based on
-the categories provided by the application and filter potetial matches for each by age, sex and skill level, while adding
+the categories provided by the application and filter potential matches for each by age, sex and skill level, while adding
 a text. Based on those searches the app matches users up and enables them to get in contact.
 
 Functionalities include register and login, searching and filtering, editing your searches, matching fitting people up and
