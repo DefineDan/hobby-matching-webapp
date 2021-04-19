@@ -10,3 +10,5 @@ a text. Based on those searches the app matches users up and enables them to get
 
 Functionalities include register and login, searching and filtering, editing your searches, matching fitting people up and
 requesting new categories for hobbies.
+
+![mobby-web gif](https://user-images.githubusercontent.com/63105659/115279311-db106700-a146-11eb-9d30-6c045505611a.gif)
